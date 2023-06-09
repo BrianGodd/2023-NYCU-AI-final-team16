@@ -15,8 +15,8 @@ and do
 ```pip install requirements.txt```
 
 ## Unity Part
-  Draw Creatures on your own!
-  
+  Draw Creatures on your own with our drawing tool!
+  ![image](https://github.com/TianYueh/2023-NYCU-AI-final-team16/blob/main/draw.png)
   ![image](https://github.com/TianYueh/2023-NYCU-AI-final-team16/blob/main/creature.png)
   
 ## training
