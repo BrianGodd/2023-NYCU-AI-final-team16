@@ -16,15 +16,18 @@ and use
 
 ## Unity Part
   Draw Creatures on your own with our drawing tool!
-  ![image](https://github.com/TianYueh/2023-NYCU-AI-final-team16/blob/main/draw.png)
-  ![image](https://github.com/TianYueh/2023-NYCU-AI-final-team16/blob/main/creature.png)
+  ![image](https://github.com/TianYueh/2023-NYCU-AI-final-team16/blob/main/man.png)
   
 ## Training
   Run DDPGNotebook.ipynb to train your creature!
   
-  Note that you should put your build file and ddpg_agent.py, and model.py together.
+  Note that you should put your build file and ddpg_agent.py, and model.py together in the same layer, and you should rename the path in the ipynb file.
   
 ## Sample Results
+  Training with PPO(Proximal Policy Optimization):
+  ![image](https://github.com/TianYueh/2023-NYCU-AI-final-team16/blob/main/mil.png)
+  Training with DDPG(Deep Deterministic Policy Gradient):
+  ![image](https://github.com/TianYueh/2023-NYCU-AI-final-team16/blob/main/ddpg.png)
 
 
 
