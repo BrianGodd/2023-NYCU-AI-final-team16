@@ -16,6 +16,7 @@ and do
 
 ## Unity Part
   Draw Creatures on your own!
+  ![image]https://github.com/TianYueh/2023-NYCU-AI-final-team16/blob/main/creature.png
   
 ## training
   Run DDPGNotebook.ipynb to train your creature!
