@@ -22,7 +22,9 @@ and use
 ## Training
   Run DDPGNotebook.ipynb to train your creature!
   
-## Sample Result
+  Note that you should put your build file and ddpg_agent.py, and model.py together.
+  
+## Sample Results
 
 
 
