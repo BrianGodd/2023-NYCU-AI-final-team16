@@ -11,7 +11,7 @@ Python, version==3.7.16
 
 Unity, version==2021.3.20f1
 
-and do 
+and use
 ```pip install requirements.txt```
 
 ## Unity Part
@@ -19,7 +19,11 @@ and do
   ![image](https://github.com/TianYueh/2023-NYCU-AI-final-team16/blob/main/draw.png)
   ![image](https://github.com/TianYueh/2023-NYCU-AI-final-team16/blob/main/creature.png)
   
-## training
+## Training
   Run DDPGNotebook.ipynb to train your creature!
+  
+## Sample Result
+
+
 
 
