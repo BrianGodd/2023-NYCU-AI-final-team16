@@ -15,6 +15,7 @@ and use
 ```pip install requirements.txt```
 
 ## Unity Part
+  (Please download our AI_Final file from Google Drive via to_AI_Final.txt, the file is too big. qq)
   Draw Creatures on your own with our drawing tool!
   ![image](https://github.com/TianYueh/2023-NYCU-AI-final-team16/blob/main/man.png)
   
