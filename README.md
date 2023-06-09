@@ -21,7 +21,9 @@ and use
   
 ## Training
   Run DDPGNotebook.ipynb to train your creature!
+  
   Here is a GIF for successful training:
+  
   ![image](https://github.com/TianYueh/2023-NYCU-AI-final-team16/blob/main/demo.gif)
   
   Also it might fail...
