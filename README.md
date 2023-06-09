@@ -11,15 +11,8 @@ Python, version==3.7.16
 
 Unity, version==2021.3.20f1
 
-mlagents
+and do 
+```pip install requirements.txt```
 
-tensorflow
 
-gym
-
-gym_unity
-
-(Note that you can install the packages here with pip install, for example:
-```pip install mlagents```
-)
 
