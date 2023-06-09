@@ -14,5 +14,10 @@ Unity, version==2021.3.20f1
 and do 
 ```pip install requirements.txt```
 
+## Unity Part
+  Draw Creatures on your own!
+  
+## training
+  Run DDPGNotebook.ipynb to train your creature!
 
 
