@@ -23,8 +23,9 @@ and use
   Run DDPGNotebook.ipynb to train your creature!
   Here is a GIF for successful training:
   ![image](https://github.com/TianYueh/2023-NYCU-AI-final-team16/blob/main/demo.gif)
-  Also it might fail...
   
+  Also it might fail...
+  ![image](https://github.com/TianYueh/2023-NYCU-AI-final-team16/blob/main/demo2.gif)
   
   Note that you should put your build file and ddpg_agent.py, and model.py together in the same layer, and you should rename the path in the ipynb file.
   
