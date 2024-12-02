@@ -3,6 +3,8 @@ The AI final project for Team 16 for 2023 NYCU Intro-to-AI class
 
 Topic: Creature Creator via Reinforcement Learning 
 
+Demo Video: https://youtube.com/playlist?list=PLCbWs_NFgpbMD_OVPu17VFH3BRBvUNZQU&si=U88URGlo9VQujmTJ
+
 # Overview of our task
   This repo is written for our Final Project of AI class, we implement a creature creator with Unity, we can draw your creature with it and train our creatures on it.
 # Get  Started
